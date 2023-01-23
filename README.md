@@ -3,6 +3,6 @@
 Answers for queries in IT polish exams.
 
 Contributors: 
-Gugisek (me)
-123kakor56
-DJdaimond#6533
+ - Gugisek (me)
+ - 123kakor56
+ - DJdaimond#6533
